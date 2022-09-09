@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vitalii Skavronskyi
-- 👀 I’m interested in SW, web delelopment
-- 🌱 I’m currently learning how to develop reliable, scalable web app
+- 👀 I’m interested in SW, web development
+- 🌱 I’m currently learning how to develop reliable, scalable web apps
 - 📫 How to reach me via email - vskavronsky92@gmail.com
 
 <!---
